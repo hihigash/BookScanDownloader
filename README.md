@@ -1,5 +1,5 @@
 # BookScanDownloader
-All Books Downloader in BookScan.jp
+All my books downloader on BookScan.
 
 ## Usage
 
